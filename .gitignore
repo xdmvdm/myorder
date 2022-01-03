@@ -1,6 +1,9 @@
 HELP.md
 Console.java
+derby.log
+.gitignore
 yorder.iml
+mvnw
 oknreadme.txt
 asistance.iml
 mvnw
