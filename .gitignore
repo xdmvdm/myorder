@@ -1,6 +1,16 @@
 HELP.md
+Console.java
+yorder.iml
+oknreadme.txt
+asistance.iml
+mvnw
+.gitignore
+.mvn/wrapper
+mvnw.cmd
+.dockerignore
 target/
 .mvn/
+.idea
 !**/src/main/**/target/
 !**/src/test/**/target/
 
